@@ -36,6 +36,8 @@
 
    git remote add origin <remote_repository_url>
 
+   git remote set-url origin <remote_repository_url>
+
 8. Push Your Changes :
    If you're working with a remote repository, push your changes to the remote to synchronize your local repository with it:
    
